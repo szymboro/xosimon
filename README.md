@@ -3,17 +3,19 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/11138922940/)
 ## > 𝚠𝚑𝚘𝚊𝚖𝚒
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" width="408" />
-I'm a Frontend-dev @Efigo with great interest in RaspberryPi/NodeMCU projects, coding and task/home automation. After graduating from IT high school, I immediately started working as a full-time developer, I am interested in learning new technologies, programming languages and working on my bimmer :)&nbsp;
+I'm a Frontend-dev with great interest in RaspberryPi/NodeMCU projects, coding and task/home automation. After graduating from IT high school, I immediately started working as a full-time developer, I am interested in learning new technologies, programming languages and working on my bimmer :)&nbsp;
 
 ## Tools that I use
-<a title="Vue.js"><img src="icons/vuedotjs.svg" /></a>
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=szymboro&show_icons=true&theme=radical) -->
+![Vuejs](https://img.shields.io/badge/Vue.js-%2312100E.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white&color=4FC08D)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-%2312100E.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
+![Typescript](https://img.shields.io/badge/Typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
+![Javascript](https://img.shields.io/badge/Javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![Jsonwebtokens](https://img.shields.io/badge/JWT-%2312100E.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=000000)
+![Postcss](https://img.shields.io/badge/Postcss-%2312100E.svg?&style=for-the-badge&logo=postcss&logoColor=white&color=DD3A0A)
+![Python](https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Linux](https://img.shields.io/badge/Linux-%2312100E.svg?&style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
+![Vscode](https://img.shields.io/badge/Vscode-%2312100E.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
 
 ## What's he building in there?
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Thousand%20lines%20of%20code-blue)
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
