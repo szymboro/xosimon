@@ -7,7 +7,7 @@ I'm a Frontend-dev @Efigo with great interest in RaspberryPi/NodeMCU projects, c
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" width="408" /> &nbsp;
 
 ## What's he building in there?
-<!--START_SECTION:waka-->
+ <!--START_SECTION:waka-->
 ```text
 
 ```
