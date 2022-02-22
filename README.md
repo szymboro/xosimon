@@ -9,6 +9,8 @@ I'm a Frontend-dev @Efigo with great interest in RaspberryPi/NodeMCU projects, c
 ## What's he building in there?
  <!--START_SECTION:waka-->
 ```text
+From: 14 February, 2022 - To: 21 February, 2022
+
 
 ```
 <!--END_SECTION:waka-->
