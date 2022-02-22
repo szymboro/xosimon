@@ -8,7 +8,4 @@ I'm a Frontend-dev @Efigo with great interest in RaspberryPi/NodeMCU projects, c
 
 ## What's he building in there?
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
