@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" width="408" />
 I'm a Frontend-dev with great interest in RaspberryPi/NodeMCU projects, coding and task/home automation. After graduating from IT high school, I immediately started working as a full-time developer, I am interested in learning new technologies, programming languages and working on my bimmer :)
 
-## 𝚃𝚘𝚘𝚕𝚜 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎
+## > 𝚍𝚎𝚙𝚌𝚑𝚎𝚌𝚔
 [![Vuejs](https://img.shields.io/badge/Vue.js-%2312100E.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white&color=4FC08D)](https://vuejs.org/)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-%2312100E.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)](https://tailwindcss.com/)
 [![Typescript](https://img.shields.io/badge/Typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
@@ -17,7 +17,7 @@ I'm a Frontend-dev with great interest in RaspberryPi/NodeMCU projects, coding a
 [![Linux](https://img.shields.io/badge/Linux-%2312100E.svg?&style=for-the-badge&logo=linux&logoColor=white&color=FCC624)](https://www.linux.org/)
 [![Vscode](https://img.shields.io/badge/Vscode-%2312100E.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
 
-## 𝚆𝚑𝚊𝚝'𝚜 𝚑𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚎𝚛𝚎?
+## > 𝚑𝚝𝚘𝚙
 <!--START_SECTION:waka-->
 ```text
 Vue.js       1 hr 32 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.63 % 
