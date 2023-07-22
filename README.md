@@ -21,7 +21,8 @@ I'm a Frontend-dev with great interest in RaspberryPi/NodeMCU projects, coding a
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Other    8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.13 %
+Svelte   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.87 %
 ```
 
 <!--END_SECTION:waka-->
